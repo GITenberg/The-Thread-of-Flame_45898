@@ -1,0 +1,28 @@
+_repo: The-Thread-of-Flame_45898
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45898-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: King, Basil
+    alias: King, William Benjamin Basil
+    birthdate: 1859
+    deathdate: 1928
+    gutenberg_agent_id: '3214'
+    url: http://www.gutenberg.org/2009/agents/3214
+description: ''
+gutenberg_issued: '2014-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45898'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Husband and wife -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: The Thread of Flame
+url: http://www.gutenberg.org/ebooks/45898
